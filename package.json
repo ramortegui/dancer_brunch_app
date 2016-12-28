@@ -2,6 +2,7 @@
   "name": "salmple-app",
   "version": "0.0.1",
   "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
     "brunch": "^2.9.1",
     "javascript-brunch": "^2.0.0",
     "sass-brunch": "^2.9.0"
