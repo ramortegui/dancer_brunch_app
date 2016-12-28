@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 <head>
-  <meta charset="<% settings.charset %>">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>dancer_brunch_app</title>
+  <meta charset="utf-8">
+  <title>Simple Brunch Demo</title>
+  <link rel="stylesheet" href="app.css">
 </head>
 <body>
-<% content %>
+    <% content %>
 </body>
 </html>
