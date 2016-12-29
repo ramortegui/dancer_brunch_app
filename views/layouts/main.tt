@@ -8,5 +8,6 @@
 <body>
     <% content %>
     <script src="app.js"></script>
+    <script>require('application').init();</script>
 </body>
 </html>
