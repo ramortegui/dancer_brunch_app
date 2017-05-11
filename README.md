@@ -17,5 +17,9 @@ In other terminal
 
 6. In a browser go to: http://localhost:5000
 
-7. The brunch config is looking for changes on view and public, 
-you can make a change on those files, and then voila!, autoreload.
+7. The brunch config is looking for changes on view, app, 
+you can make a change on the views and app directories,then voila!, autoreload.
+
+8.  Also if you start the dancer app using Shotgun loader, the application will be 
+recompiled on each change of your code.
+  $plackup -L Shotgun bin/app.psgi

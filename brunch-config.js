@@ -1,6 +1,6 @@
 module.exports = {
   paths:{
-    watched: ['app','views']
+    watched: ['app','views','lib']
   },
   files: {
     javascripts: {
