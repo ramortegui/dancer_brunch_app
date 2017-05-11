@@ -16,3 +16,6 @@ In other terminal
 5. brunch watch
 
 6. In a browser go to: http://localhost:5000
+
+7. The brunch config is looking for changes on view and public, 
+you can make a change on those files, and then voila!, autoreload.
